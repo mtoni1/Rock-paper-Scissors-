@@ -1,1 +1,1 @@
-# Rock-paper-Scissors-
+# Rock-paper-Scissors-game for a single round
